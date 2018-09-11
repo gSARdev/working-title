@@ -1,0 +1,30 @@
+gSARdev – 1st Meeting 11/09/2018
+
+Members:
+Alex Gallacher / Richard Sneddon / Stephen Honnan
+
+Group background:
+Alex: 
+Strengths: C#, 3D Modelling
+Weaknesses:  Unity Familiarity
+
+Richard: 
+Strengths: Unity, Blender, Unreal, Piskel, Documentation
+Weaknesses:  Programming, Animation
+
+Stephen: 
+Strengths: Programming, Problem Solving, Documentation, Project Management
+Weaknesses:  Unity Familiarity, Animation
+
+Group Project Agreements:
+Game Engine: Unity
+Game Category: 2D Platformer
+Aesthetics: Futuristic, Pixel Art, 2D background w/Loop & Repeat or Scrolling
+Target Audience: Ages 3+
+Player Object: 32x32 sprite
+Game Scene: 2D background scrolls at slower rate than foreground
+
+Mechanic Ideas:
+Invisibility frames when taking damage w/damage indication
+Game objects that inflict damage (spikes, enemies, etc.)
+Collectibles
