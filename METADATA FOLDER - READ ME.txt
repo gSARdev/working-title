@@ -1,0 +1,11 @@
+There are 3x .rar files for the metadata folder, please be aware. These are:
+
+metadata 1
+metadata 2
+metadata 3
+
+These must be extracted and placed in the metadata folder in:
+Unity Projects/gSARdev v2/Library/metadata 
+
+
+- Stephen

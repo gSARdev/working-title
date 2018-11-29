@@ -1,0 +1,10 @@
+There are 2x .rar files for the Assets/Audio folder, please be aware. These are:
+
+Audio 1-1
+Audio 1-2
+
+These must be extracted and placed in the metadata folder in:
+Unity Projects/gSARdev v2/Assets/Audio
+
+
+- Stephen
